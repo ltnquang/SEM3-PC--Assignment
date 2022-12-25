@@ -1,0 +1,8 @@
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\bin\Debug\Assignment.exe.config
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\bin\Debug\Assignment.exe
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\bin\Debug\Assignment.pdb
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\obj\Debug\Assignment.exe
+G:\My Drive\CNTT\Aptech\CSharp\HocTap\7.ViDu\Assignment\Assignment\obj\Debug\Assignment.pdb
